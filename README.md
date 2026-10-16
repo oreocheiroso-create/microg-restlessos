@@ -1,8 +1,6 @@
-# microg-restlessos
 
 
-
-# MicroG Port to RestlessOS (UNOFFICIAL)
+# MicroG Port to RestlessOS (MicrOreoG) (UNOFFICIAL)
 <img width="800" height="360" alt="6e50d107-b749-408b-8a87-60a6df56" src="https://github.com/user-attachments/assets/a49588f4-baf1-4e5d-8dfc-4d52430b944f" />
 
 ## Made by OreoCheiroso
@@ -30,7 +28,7 @@ It contains only the files required to work around the installation restrictions
 ### Requirements
 Root access is mandatory. A rooted device is required to install microG using this port.
 A device running RestlessOS.
-A PC or Access to ADB
+A PC with/or Access to ADB
 
 ### Step 1: Download and Install the Original microG APKs
 Download the original microG APKs from the official microG GmsCore v0.3.17.252432 release page.
