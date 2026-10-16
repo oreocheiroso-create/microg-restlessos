@@ -46,17 +46,23 @@ Download the original microG APKs from the official microG GmsCore v0.3.17.25243
 
 ### Using a terminal with ADB access, navigate to the directory where you downloaded the APKs and install both applications using the following commands:
 
-- Install microG Services:
+- Install [microG Services](https://github.com/microg/GmsCore/releases/download/v0.3.17.252432/com.android.vending-84022634.apk):
 
 ```bash
 adb install com.google.android.gms-250932034.apk
 ```
 
 
-- Install microG Companion:
+- Install [microG Companion](https://github.com/microg/GmsCore/releases/download/v0.3.17.252432/com.google.android.gms-252432034.apk):
 
 ```bash
 adb install com.android.vending-84022634.apk
+```
+
+- Install [FakeGApps](https://github.com/thermatk/FakeGApps/releases/tag/2.0):
+
+```bash
+adb install FakeGApps2.apk
 ```
 
 > [!NOTE]
