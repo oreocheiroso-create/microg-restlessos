@@ -59,7 +59,7 @@ adb install com.google.android.gms-250932034.apk
 adb install com.android.vending-84022634.apk
 ```
 
-- Install [FakeGApps](https://github.com/thermatk/FakeGApps/releases/tag/2.0):
+- Install [FakeGApps](https://github.com/whew-inc/FakeGApps/releases/tag/6.6):
 
 ```bash
 adb install FakeGApps2.apk
@@ -88,7 +88,7 @@ After rebooting, microG should be ready to use on RestlessOS!
 
 
 > [!WARNING]
-> Do not install the Google Play Store or Google Play Services from the App Store. Having these applications installed alongside this setup may cause package conflicts and prevent microG from working correctly.
+> Do not install the Google Play Store or Google Play Services from the App Store. Having these applications installed alongside this setup may cause package conflicts and prevent microG from working correctly, if it is already installed, uninstall it using "[Batch Uninstaller](https://f-droid.org/pt_BR/packages/com.saha.batchuninstaller/)" or any other ROOT-based uninstallation app
 
 ## Make sure you follow every step carefully for the best results.
 
