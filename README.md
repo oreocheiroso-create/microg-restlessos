@@ -74,6 +74,9 @@ After installing both APKs, download the MicrOreoG module from this repository.
 
 Install and enable the module using your preferred root manager, such as KernelSU, APatch, or Magisk.
 
+## If you want Integrity, PLEASE install [that module](https://github.com/LSPosed/LSPosed/releases/tag/v1.9.2)
+(Use Magisk Module, even if you use KernelSU, APatch or any other root)
+
 > [!WARNING]
 > Root access is mandatory for this installation method.
 
